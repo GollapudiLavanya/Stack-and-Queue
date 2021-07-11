@@ -37,7 +37,11 @@ namespace Stack_and_Queue
             queue.Enqueue(30);
             queue.Enqueue(70);
 
-            //Display queue
+            Console.WriteLine(" Before Dequeue");
+            queue.Display();
+            queue.Dequeue();
+
+            Console.WriteLine(" After Dequeue");
             queue.Display();
             Console.WriteLine("-------------------------------------------------------");
         }
