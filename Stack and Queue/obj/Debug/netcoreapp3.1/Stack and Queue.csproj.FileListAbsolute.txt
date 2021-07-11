@@ -1,0 +1,13 @@
+C:\Users\dell\source\repos\Stack and Queue\Stack and Queue\bin\Debug\netcoreapp3.1\Stack and Queue.exe
+C:\Users\dell\source\repos\Stack and Queue\Stack and Queue\bin\Debug\netcoreapp3.1\Stack and Queue.deps.json
+C:\Users\dell\source\repos\Stack and Queue\Stack and Queue\bin\Debug\netcoreapp3.1\Stack and Queue.runtimeconfig.json
+C:\Users\dell\source\repos\Stack and Queue\Stack and Queue\bin\Debug\netcoreapp3.1\Stack and Queue.runtimeconfig.dev.json
+C:\Users\dell\source\repos\Stack and Queue\Stack and Queue\bin\Debug\netcoreapp3.1\Stack and Queue.dll
+C:\Users\dell\source\repos\Stack and Queue\Stack and Queue\bin\Debug\netcoreapp3.1\Stack and Queue.pdb
+C:\Users\dell\source\repos\Stack and Queue\Stack and Queue\obj\Debug\netcoreapp3.1\Stack and Queue.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Stack and Queue\Stack and Queue\obj\Debug\netcoreapp3.1\Stack and Queue.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Stack and Queue\Stack and Queue\obj\Debug\netcoreapp3.1\Stack and Queue.AssemblyInfo.cs
+C:\Users\dell\source\repos\Stack and Queue\Stack and Queue\obj\Debug\netcoreapp3.1\Stack and Queue.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Stack and Queue\Stack and Queue\obj\Debug\netcoreapp3.1\Stack and Queue.dll
+C:\Users\dell\source\repos\Stack and Queue\Stack and Queue\obj\Debug\netcoreapp3.1\Stack and Queue.pdb
+C:\Users\dell\source\repos\Stack and Queue\Stack and Queue\obj\Debug\netcoreapp3.1\Stack and Queue.genruntimeconfig.cache
