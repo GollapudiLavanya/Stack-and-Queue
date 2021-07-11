@@ -14,6 +14,16 @@ namespace Stack_and_Queue
             stack.Push(30);
             stack.Push(56);
 
+            while (!(stack.IsEmpty()))
+            {
+                //Display list
+                stack.Display();
+                //Peak element of stack
+                stack.Peak();
+                //Pop element
+                stack.Pop();
+                Console.WriteLine();
+            }
 
             //Display list
             stack.Display();
